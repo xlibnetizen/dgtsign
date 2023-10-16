@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xlibnetizen/dgtsign/dgtsign"
+	"xlibnetizen/dgtsign"
 )
 
 func main() {
