@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"xlibnetizen/dgtsign"
+
+	"github.com/xlibnetizen/dgtsign"
 )
 
 func main() {
-	kq := xlib.Echo()
+	kq := dgtsign.Echo()
 	fmt.Println("Init main..", kq)
 }
